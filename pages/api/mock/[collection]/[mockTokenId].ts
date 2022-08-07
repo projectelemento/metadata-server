@@ -5,8 +5,7 @@ export default async function handler(
     req: NextApiRequest,
     res: NextApiResponse
 ) {
-    const { origin } = absoluteUrl(req)
-
+    const origin = 'https://mock.fiverlabs.xyz'
     const { collection, mockTokenId } = req.query
     let id: string = typeof mockTokenId === 'string' ? mockTokenId : ''
 
