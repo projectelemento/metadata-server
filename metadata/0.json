@@ -1,0 +1,10 @@
+{
+    "description": "Project Elemento is a one-of-a-kind collection of 10,000 folk creatures derived from Philippine mythology who live in an advanced and futuristic era. It is headed and created by fantastic people with futuristic minds with the desire to introduce the world something common yet different at the same time.",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1546360800
+        }
+    ]
+}

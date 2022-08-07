@@ -1,0 +1,10 @@
+{
+    "name": "Elemento Genesis Siokoy",
+    "image": "https://cdn.discordapp.com/attachments/1000703204075524126/1000706612232736788/Siokoy.png",
+    "attributes": [
+        {
+            "trait_type": "Base", 
+            "value": "Starfish"
+          }
+      ]
+}
