@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@projectelemento/memento-metadata-builder": "github:projectelemento/memento-metadata",
     "canvas": "^2.9.3",
     "next": "12.2.3",
     "next-absolute-url": "^1.2.2",
